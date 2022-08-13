@@ -289,3 +289,6 @@ void GameEnd()
 	getch();
 }
 
+
+// #include<iostream.h>
+// using namespace std;
