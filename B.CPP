@@ -288,3 +288,6 @@ void GameEnd()
 	}
 	getch();
 }
+
+
+// #include
